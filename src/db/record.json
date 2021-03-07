@@ -1,1 +1,23 @@
-{}
+{
+    "data": [{
+        "id": 1,
+        "type": "text",
+        "context": "你好啊",
+        "user": "贾队长"
+    },{
+        "id": 2,
+        "type": "img",
+        "context": "https://t7.baidu.com/it/u=860330160,4117395242&fm=193&f=GIF",
+        "user": "黄队长"
+    },{
+        "id": 3,
+        "type": "system",
+        "context": "消息已撤回",
+        "user": "贾队长"
+    },{
+        "id": 4,
+        "type": "text",
+        "context": "你说啥？",
+        "user": "黄队长"
+    }]
+}
